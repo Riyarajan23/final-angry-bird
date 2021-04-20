@@ -1,2 +1,1 @@
-# final-angry-bird
-vsc
+# AngryBirdsStage7
